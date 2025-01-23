@@ -1,3 +1,4 @@
+![logo](https://github.com/Manoj-Telrandhe/Manoj-Telrandhe/blob/main/github_banner.jpg)
 <h1 align="center">Hi 👋, I'm Manoj Telrandhe</h1>
 <h3 align="center">Al & ML Enthusiasts</h3>
 
