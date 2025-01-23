@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manoj Telrandhe</h1>
 <h3 align="center">Al & ML Enthusiasts</h3>
 
+- 🔭 I’m currently Pursuing **Master from IIIT, Delhi**
+
 - 🌱 I’m currently learning **LLM and CV (Computer Vision)**
 
-- All of my projects are available at [link](link)
+- 👨‍💻 I’m currently working on University **Assignements,Project work**
+
+- 📄 All of my projects are available at [https://github.com/Manoj-Telrandhe](https://github.com/Manoj-Telrandhe)
+
+- 💬 Connect with me [https://www.linkedin.com/in/manojaiml/](https://www.linkedin.com/in/manojaiml/)
 
 - 📫 How to reach me **telr.manoj@gmail.com**
 
