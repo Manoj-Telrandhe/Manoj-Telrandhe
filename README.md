@@ -1,4 +1,3 @@
-![logo](https://github.com/Manoj-Telrandhe/Manoj-Telrandhe/blob/main/Black%20and%20Yellow%20Banner.png)
 <h1 align="center">Hello 👋, I'm Manoj</h1>
 <h3 align="center">About Me</h3>
 
