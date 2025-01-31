@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Manoj</h1>
-<h3 align="center">About Me</h3>
+<!-- <h3 align="center">About Me</h3> -->
 
-<p>I am persuing my master in Machine Learning from IIIT Delhi.</p>
+<p>Pursuing a master's in Machine Learning from IIIT Delhi, I am deeply passionate about AI, deep learning, LLM, and computer vision. A lifelong curious learner, I am driven to continuously expand my skills and deepen my understanding of technology. Excited to connect and collaborate on AI-driven projects!</p>
+
 - 🔭 I’m currently Pursuing **Master from IIIT, Delhi**
 
 - 🌱 I’m currently learning **LLM and CV (Computer Vision)**
