@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently Pursuing **Master from IIIT, Delhi**
 
-- 🌱 I’m currently learning **LLM and CV (Computer Vision)**
-
-- 👨‍💻 I’m currently working on University **Assignements,Project work**
+- 👨‍💻 I’m currently working on University **Assignements,Projects and Research work**
 
 - 📄 All of my projects are available at [https://github.com/Manoj-Telrandhe](https://github.com/Manoj-Telrandhe)
 
